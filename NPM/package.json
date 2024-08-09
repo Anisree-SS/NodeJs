@@ -1,0 +1,20 @@
+{
+  "type": "module",
+  "dependencies": {
+    "random": "^4.1.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^4.0.0"
+  },
+  "name": "npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "types": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
